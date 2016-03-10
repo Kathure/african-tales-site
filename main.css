@@ -1,0 +1,28 @@
+body{
+    background-color:antiquewhite;
+    font-family:cursive;
+    text-align: justify;
+}
+p{
+  text-align: center;
+  font-family: cursive;  
+}
+
+footer{
+    font-family: fantasy;
+}
+         
+nav#leftnav{
+             width: 30%;
+             height: auto;
+             float: left;
+             border: 2px solid black;
+             font-family: sans-serif;
+         }
+div#wrapper{
+             width: 65%;
+             height: auto;
+             float: right;
+             border: 2px solid black;
+         }
+  
