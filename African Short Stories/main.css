@@ -1,0 +1,13 @@
+body{
+    background-color:antiquewhite;
+    font-family:cursive;
+    text-align: justify;
+}
+p{
+  text-align: center;
+  font-family: cursive;  
+}
+aside{
+    text-align: left;
+    font-family: sans-serif;
+}
